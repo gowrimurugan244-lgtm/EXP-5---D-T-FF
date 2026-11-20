@@ -31,7 +31,7 @@ STEP 1 – Open Terminal
 
 Open a terminal in the experiment folder.
 
-STEP 2 – Load Synopsys Environment
+STEP 2 – Load Synopsys Environment.
 source /synopsys/start.sh
 
 STEP 3 – Compile Using VCS
